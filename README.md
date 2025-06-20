@@ -48,7 +48,7 @@ Use more complex ML models (e.g., Random Forest, XGBoost)
 Deploy as a Streamlit web app
 Include anomaly detection for extreme weather events
 
- Author
+Author
 Priya R.
 B.C.A. Final Year | Climate Analytics Enthusiast
-Connect on [LinkedIn](url)
+Connect on (www.linkedin.com/in/priya-r-52433b358)](url)
